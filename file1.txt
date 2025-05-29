@@ -1,1 +1,2 @@
 Git hub file 1
+modified after gitignore file creation
